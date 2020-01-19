@@ -31,7 +31,7 @@ To install python3 dependencies run: `pip3 install --user requirements.txt`.
 
 Then run `make` and it will mirror n-gate.com and generate the fortune files `ngatehackernews` and `ngatehackernews.dat`.
 
-`make clean` will clean the fortune files and `make cleanall` will clean fortun files and the n-gate.com mirror.
+`make clean` will clean the fortune files and `make cleanall` will clean fortune files and the n-gate.com mirror.
 
 There is no guarantee to work if new weird HTML oddities are introduced in headline summaries. Parsing all the HTML entries was a bit of a headache to begin with.
 
