@@ -4,15 +4,16 @@ These are offensive fortunes and so they will live in the offensive fortune dire
 
 Download [ngatehackersnews](https://raw.githubusercontent.com/nnathan/ngatefortune/master/ngatehackernews) fortune file.
 
-Run `strfile ngatehackernews` and copy `ngatehackernews` and `ngatehackernews.dat` to `/usr/local/share/games/fortunes/off/`.  Or `/usr/share/games/fortunes/off/`. Or wherever the fortune file should live, consult your `fortune(6)` manpage which will specify where.
+Run `strfile ngatehackernews` and copy `ngatehackernews` and `ngatehackernews.dat` to `/usr/local/share/games/fortunes/off/`.  Or `/usr/share/games/fortunes/off/`. Or wherever the fortune file should live, consult your `fortune(6)` manpage which will specify where. You can also place them in a local directory such as `~/.fortune`.
 
 Then run `fortune -o ngatehackernews` to get a random n-gate headline summary. Neat huh? Maybe chuck it in your bash profile to brighten your day.
 
 This is what I do:
 
 ```bash
+# copy ngatehackernews{,.dat} to ~/.fortune
 if shopt -q login_shell; then
-    fortune -o ngatehackernews
+    fortune ~/.fortune
 fi
 ```
 
