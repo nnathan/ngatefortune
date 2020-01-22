@@ -1,3 +1,5 @@
+.POSIX:
+
 .PHONY:
 all: ngatehackernews.dat
 
