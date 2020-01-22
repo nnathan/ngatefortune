@@ -2,12 +2,13 @@
 
 # this file has been automatically formatted with black
 
-import subprocess
 import datetime
-import sys
-import os
 import glob
+import os
+import subprocess
+import sys
 import textwrap
+
 import bs4
 import bs4.element
 from bs4 import BeautifulSoup
@@ -44,10 +45,11 @@ def parse_hackernews(raw_html):
             text = p.contents[-1].strip()
             headline = {
                 "title": title,
-                "titlelink": None,
-                "date": None,
-                "hnlink": None,
-                "context": None,
+                "titlelink": "",
+                "date": "",
+                "hnlink": "",
+                "addendums": [],
+                "context": [],
                 "text": text,
             }
             yield headline
@@ -102,6 +104,7 @@ def parse_hackernews(raw_html):
         # untag will remove tags and return the summary portion plus any contextual links
         def untag(contents):
             out = []
+            addendums = []
             context = []
             link_num = 0
             for v in contents:
@@ -117,11 +120,30 @@ def parse_hackernews(raw_html):
                         out.append(v.text + f"[{link_num}]")
                         link_num += 1
                         continue
+                if type(v) == bs4.element.Tag and v.name == "sup":
+                    # annoyance (footnote outside headline summary)
+                    #       n-gate.com/hackernews/2016/10/07/0/index.html
+                    #         - [Police complaints drop over 90% after deploying body cameras]
+                    if (
+                        title
+                        == "Police complaints drop over 90% after deploying body cameras"
+                    ):
+                        addendums = [
+                            "* - I'm kidding. A Hackernews would never set foot in the East Bay."
+                        ]
+                    elif title == "Who Are My Investors?":
+                        addendums = ["* - never."]
+
+                if title == "Golang SSH Security":
+                    log("Golang SSH Security")
+                    addendums = [
+                        "* - Imagine that.  Vendor-related problems with Go.  For a change, this one couldn't have been trivially solved with plain old package management."
+                    ]
 
                 out.append(v.text)
-            return out, context
+            return out, addendums, context
 
-        textparts, context = untag(p.contents[start:])
+        textparts, addendums, context = untag(p.contents[start:])
         text = "".join(textparts).strip()
 
         headline = {
@@ -129,6 +151,7 @@ def parse_hackernews(raw_html):
             "titlelink": titlelink,
             "date": date,
             "hnlink": hackernewslink,
+            "addendums": addendums,
             "context": context,
             "text": text,
         }
@@ -142,6 +165,7 @@ def out(headline):
     date = headline["date"]
     hnlink = headline["hnlink"]
     link = headline["titlelink"]
+    addendums = headline["addendums"]
     context = headline["context"]
 
     wraptext = textwrap.fill(
@@ -154,11 +178,26 @@ def out(headline):
     )
 
     # annoyance n-gate.com/hackernews/2016/10/21/0/index.html (just a storylink with no link or metadata)
-    if hnlink is None:
+    if hnlink == "":
         print(f"{title}\n\n{wraptext}")
         return
 
     print(f"{title}\n{date}\n\n{wraptext}\n")
+
+    for a in addendums:
+        wrapaddendum = textwrap.fill(
+            a,
+            width=75,
+            drop_whitespace=True,
+            fix_sentence_endings=True,
+            break_long_words=True,
+            break_on_hyphens=True,
+        )
+
+        print(wrapaddendum)
+
+    if len(addendums) > 0:
+        print("")
 
     for i, link in enumerate(context):
         print(f"[{i}]: {link}")
@@ -174,7 +213,9 @@ if __name__ == "__main__":
         log("n-gate.com directory does not exist, exiting")
         sys.exit(1)
 
-    htmlfiles = sorted(glob.glob("n-gate.com/hackernews/**/0/index.html", recursive=True))
+    htmlfiles = sorted(
+        glob.glob("n-gate.com/hackernews/**/0/index.html", recursive=True)
+    )
     for hf in htmlfiles:
         log(f"processing {hf}")
         with open(hf) as f:
