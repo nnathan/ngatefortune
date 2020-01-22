@@ -174,7 +174,7 @@ if __name__ == "__main__":
         log("n-gate.com directory does not exist, exiting")
         sys.exit(1)
 
-    htmlfiles = glob.glob("n-gate.com/hackernews/**/0/index.html", recursive=True)
+    htmlfiles = sorted(glob.glob("n-gate.com/hackernews/**/0/index.html", recursive=True))
     for hf in htmlfiles:
         log(f"processing {hf}")
         with open(hf) as f:
