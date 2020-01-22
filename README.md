@@ -13,7 +13,7 @@ This is what I do:
 ```bash
 # copy ngatehackernews{,.dat} to ~/.fortune
 if shopt -q login_shell; then
-    fortune ~/.fortune
+    [ -d ~/.fortune ] && fortune ~/.fortune
 fi
 ```
 
@@ -34,6 +34,8 @@ Then run `make` and it will mirror n-gate.com and generate the fortune files `ng
 `make clean` will clean the fortune files and `make cleanall` will clean fortune files and the n-gate.com mirror.
 
 There is no guarantee to work if new weird HTML oddities are introduced in headline summaries. Parsing all the HTML entries was a bit of a headache to begin with.
+
+An attempt has been made to ensure the resulting fortune file is generated deterministically by sorting the input file pathnames in lexical order. This has the desired side-effect of having the quotes generated in ascending order by date.
 
 ## License
 
