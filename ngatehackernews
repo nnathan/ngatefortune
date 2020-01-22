@@ -6402,6 +6402,117 @@ out.
 Link: https://media.defense.gov/2020/Jan/14/2002234275/-1/-1/0/CSA-WINDOWS-10-CRYPT-LIB-20190114.PDF
 Comments: http://news.ycombinator.com/item?id=22047573
 %
+Mozilla lays off 70
+January 15, 2020
+
+Mozilla successfully defends its title as only unprofitable major web
+browser vendor.  The company remains certain that money will begin to flow
+from its new product, which promises to hide all your web traffic from
+everyone except Mozilla's primary funding source.  Several unemployed
+Hackernews show up in the comments to tell us they are not angry about
+being shitcanned with no warning.  Another Hackernews thread focuses on the
+fact that high-paid executives are treated better by the company than
+people who primarily interact with text editors.  Whether this is some kind
+of class warfare or the Invisible Hand high-fiving the important people
+comprises the rest of the discussion.  The team responsible for the
+continued functionality of the Beacon API[0] are safe forever.
+
+[0]: https://developer.mozilla.org/en-US/docs/Web/API/Beacon_API
+
+Link: https://developer.mozilla.org/en-US/docs/Web/API/Beacon_API
+Comments: http://news.ycombinator.com/item?id=22057737
+%
+Unofficial Apple Archive
+January 16, 2020
+
+Apple's equivalent of SeaOrg catalogues decades of corporate propaganda.
+Some Hackernews try to decide if Apple made better shit Back In The Goodle
+Days or if they're just stuck in a nostalgia fog.  Other Hackernews
+gleefully recount their experiences as minor cogs in a massive machine.
+The rest of the comments are links to other fansites and arguments about
+which OS X widget theme was correct.
+
+Link: https://www.applearchive.org/
+Comments: http://news.ycombinator.com/item?id=22066177
+%
+A Sad Day for Rust
+January 17, 2020
+
+The Rust Evanglism Strike Force regretfully informs us of the
+excommunication of the author of one of the six Rust programs anyone
+actually uses.  Veterans of the First Webshit Incursion sagely point out
+that this day was inevitable from the moment the author made use of certain
+features that are built into the core language but regarded as unclean by
+the clergy.  Other Hackernews chime in to point out the necessity of being
+extremely polite and receptive to every single message received from anyone
+with a Github account.  Within days, development of the condemned code
+resumes and the twelve websites which depend on the software do not notice
+anything happened.
+
+Link: https://words.steveklabnik.com/a-sad-day-for-rust
+Comments: http://news.ycombinator.com/item?id=22075076
+%
+Volkswagen exec admits full self-driving cars 'may never happen'
+January 18, 2020
+
+A German correctly assesses an engineering problem.  Hackernews is
+convinced that they know better, because a nontrivial percentage of them
+receive paychecks from companies that have incorrectly assessed the
+engineering problem, and the rest of them because they personally cannot
+correctly assess any engineering problem.  Half of the almost nine hundred
+comments are in one thread which consists entirely of arguments between
+people who drive Teslas once in a while in fair weather and everyone else
+on Earth.
+
+Link: https://www.thedrive.com/tech/31816/key-volkswagen-exec-admits-level-5-autonomous-cars-may-never-happen
+Comments: http://news.ycombinator.com/item?id=22085756
+%
+My FOSS Story
+January 19, 2020
+
+An Internet struggles to be extremely polite and receptive to every single
+message received from anyone with a Github account.  The article contains a
+shitload of whining interspersed with, and followed by, admonitions that
+this shitty situation is in everybody's best interest.  Hackernews agrees,
+and praises the author for arguing with people on the internet.  Some
+Hackernews briefly experiment with the idea that Github pull requests are
+not the most important webshit technology ever developed, but since all the
+software that permits disabling them are not Github, no progress is made.
+
+Link: https://blog.burntsushi.net/foss/
+Comments: http://news.ycombinator.com/item?id=22095715
+%
+Immune discovery 'may treat all cancer'
+January 20, 2020
+
+The British Broadcasting Service weasel-words a scientific discovery into
+clickbait.  Hackernews, in between seeing the headline and clicking on the
+link, sprouts several medical research doctorates and weighs in with sober
+analysis and whatever medical facts they remember reading recently.  Later,
+Hackernews lists every malady that should be cured.  One Hackernews thinks
+maybe scientific research would work better if it somehow involved pull
+requests from Hackernews.  Even Hackernews thinks this is a terrible idea,
+but is insufficiently scornful to the originating idiot.
+
+Link: https://www.bbc.co.uk/news/health-51182451
+Comments: http://news.ycombinator.com/item?id=22101188
+%
+Every Google result now looks like an ad
+January 21, 2020
+
+An advertising company blurs the line between the dumb shit you searched
+for and the extremely important and well-targeted information you need.
+Hackernews doesn't like it, which leads to the same debate Hackernews
+always has when Google iteratively befucks its search product:  "use this
+other search engine!"  "but that is not Google" "no, but you can make it
+redirect to Google."  This is followed, in accordance with Hackernews
+tradition, by a litany of complaints about other things Google is doing to
+fuck the internet up for everybody; as it turns out, literally everything
+Google does is by now aimed at fucking the internet up.
+
+Link: https://twitter.com/craigmod/status/1219644556003565568
+Comments: http://news.ycombinator.com/item?id=22107823
+%
 Software Disenchantment (2018)
 January 01, 2020
 
