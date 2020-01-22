@@ -27,7 +27,7 @@ I will keep the fortune file up to date, so the link that lives in master will h
 
 You will need python3 and a few dependencies, make, and wget.
 
-To install python3 dependencies run: `pip3 install --user requirements.txt`.
+To install python3 dependencies run: `pip3 install --user -r requirements.txt`.
 
 Then run `make` and it will mirror n-gate.com and generate the fortune files `ngatehackernews` and `ngatehackernews.dat`.
 
