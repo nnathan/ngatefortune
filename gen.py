@@ -64,12 +64,6 @@ def parse_hackernews(raw_html):
         date = spans[1].text
         hackernewslink = spans[2].a["href"]
 
-        # annoyance (<ip> tag):
-        #        n-gate.com/hackernews/2019/06/30/0/index.html
-        if type(p.contents[-1]) == bs4.element.Tag:
-            # this one is too hard to fix, let's skip it.
-            continue
-
         # annoyance (intermixed html tags in text portion):
         #       n-gate.com/hackernews/2016/12/21/0/index.html
         #         - [Stroustrup's Rule and Layering Over Time in Rust]
