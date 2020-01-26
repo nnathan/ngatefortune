@@ -156,7 +156,7 @@ def out(headline):
     text = headline["text"]
     date = headline["date"]
     hnlink = headline["hnlink"]
-    link = headline["titlelink"]
+    titlelink = headline["titlelink"]
     addendums = headline["addendums"]
     context = headline["context"]
 
@@ -197,7 +197,7 @@ def out(headline):
     if len(context) > 0:
         print("")
 
-    print(f"Link: {link}\nComments: {hnlink}")
+    print(f"Link: {titlelink}\nComments: {hnlink}")
 
 
 if __name__ == "__main__":
