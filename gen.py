@@ -32,8 +32,6 @@ def parse_hackernews(raw_html):
         and "storylink" in p.span["class"]
     ]
 
-    headlines = []
-
     for i, p in enumerate(pelems):
         log(f"processing entry {i}")
 
