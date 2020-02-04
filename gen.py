@@ -95,21 +95,52 @@ def parse_hackernews(raw_html):
 
         # untag will remove tags and return the summary portion plus any contextual links
         def untag(contents):
+            # out contains the raw text of the headline with the tags surrounding any text
+            # elided.
             out = []
+
+            # where is a cursor that follows the text to help track and identify contextual text
+            # position within the text stream. Consumers of the contextual positions can then
+            # insert text, or a HTML-post processor can surround the contextual text based on
+            # position using tags.
+            where = 0
+
+            # addendums are a list of what is asterisked footnotes for each headline summary.
+            # there is no good way to programmatically find them and they are inconsistently
+            # placed either with the headline or part of the full page, so we basically
+            # hardcode them as you will see in the untag() code.
             addendums = []
+
+            # headline summaries have contextual links:
+            # we have a list of dict entries of
+            #   {"start":<int>, "length":<int>, "link":<str>}
+            # the "start" is the position (0-index) where the context begins,
+            # the "length" is the length of the contextual string in the text,
+            # and "link" is the URL.
             context = []
+
+            # link_num keeps track of the number of contextual links we have seen
             link_num = 0
+
             for v in contents:
                 if type(v) == bs4.element.NavigableString:
                     out.append(v)
+                    where += len(v)
                     continue
                 if type(v) == bs4.element.Tag and v.name == "a":
                     # annoyance (a tag with no href):
                     #       n-gate.com/hackernews/2018/12/21/0/index.html
                     #         - [The Yoda of Silicon Valley]
                     if "href" in v.attrs:
-                        context.append(v["href"])
-                        out.append(v.text + f"[{link_num}]")
+                        context.append(
+                            {
+                                "start": where - 1,
+                                "length": len(v.text),
+                                "link": v["href"],
+                            }
+                        )
+                        out.append(v.text)
+                        where += len(v.text)
                         link_num += 1
                         continue
                 if type(v) == bs4.element.Tag and v.name == "sup":
@@ -131,6 +162,7 @@ def parse_hackernews(raw_html):
                         "* - Imagine that.  Vendor-related problems with Go.  For a change, this one couldn't have been trivially solved with plain old package management."
                     ]
 
+                where += len(v.text)
                 out.append(v.text)
             return out, addendums, context
 
@@ -159,8 +191,21 @@ def out(headline):
     addendums = headline["addendums"]
     context = headline["context"]
 
+    def annotate(text, context):
+        """Annotate the text with contextual cues (e.g. [0], [1], ...)"""
+        adjust = 0
+        for i, ctx in enumerate(context):
+            # always adjust the start to include previous cues placed in the text
+            start = ctx["start"] + adjust
+            length = ctx["length"]
+            cue = f"[{i}]"
+            text = text[: start + length] + cue + text[start + length :]
+            adjust += len(cue)
+
+        return text
+
     wraptext = textwrap.fill(
-        text,
+        annotate(text, context),
         width=75,
         drop_whitespace=True,
         fix_sentence_endings=True,
@@ -190,7 +235,8 @@ def out(headline):
     if len(addendums) > 0:
         print("")
 
-    for i, link in enumerate(context):
+    for i, ctx in enumerate(context):
+        link = ctx["link"]
         print(f"[{i}]: {link}")
 
     if len(context) > 0:
