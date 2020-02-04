@@ -17322,14 +17322,14 @@ Comments: http://news.ycombinator.com/item?id=22095715
 Immune discovery 'may treat all cancer'
 January 20, 2020
 
-The British Broadcasting Service weasel-words a scientific discovery into
-clickbait.  Hackernews, in between seeing the headline and clicking on the
-link, sprouts several medical research doctorates and weighs in with sober
-analysis and whatever medical facts they remember reading recently.  Later,
-Hackernews lists every malady that should be cured.  One Hackernews thinks
-maybe scientific research would work better if it somehow involved pull
-requests from Hackernews.  Even Hackernews thinks this is a terrible idea,
-but is insufficiently scornful to the originating idiot.
+The British Broadcasting Coöperative weasel-words a scientific discovery
+into clickbait.  Hackernews, in between seeing the headline and clicking on
+the link, sprouts several medical research doctorates and weighs in with
+sober analysis and whatever medical facts they remember reading recently.
+Later, Hackernews lists every malady that should be cured.  One Hackernews
+thinks maybe scientific research would work better if it somehow involved
+pull requests from Hackernews.  Even Hackernews thinks this is a terrible
+idea, but is insufficiently scornful to the originating idiot.
 
 Link: https://www.bbc.co.uk/news/health-51182451
 Comments: http://news.ycombinator.com/item?id=22101188
@@ -17349,4 +17349,132 @@ Google does is by now aimed at fucking the internet up.
 
 Link: https://twitter.com/craigmod/status/1219644556003565568
 Comments: http://news.ycombinator.com/item?id=22107823
+%
+Procrastination is about managing emotions, not time
+January 22, 2020
+
+Some academics, via the BBC, correct a misconception nobody had.
+Hackernews tries to decide if being a lazy piece of shit is heritable or a
+product of upbringing.  The rest of the comments are personal anecdotes
+about how Hackernews has always been healthy, but really began to excel
+once they convinced doctors to give them amphetamines.
+
+Link: https://www.bbc.com/worklife/article/20200121-why-procrastination-is-about-managing-emotions-not-time
+Comments: http://news.ycombinator.com/item?id=22124489
+%
+What happened to Mint?
+January 23, 2020
+
+The answer to the headline question is "it got bought by a regulatory-
+capture-enhanced monopoly and ignored."  Hackernews has about sixteen
+thousand stealth-mode startups just about to swoop in and pick up the
+slack.  Each Hackernews who announces such intent is immediately beset by
+unsolicited advice from armchair bankers.  The rest of the comments are
+recommendations of financial services that almost, but do not, replace
+Mint.
+
+Link: https://www.fastcompany.com/90453586/what-the-hell-happened-to-mint
+Comments: http://news.ycombinator.com/item?id=22127845
+%
+List of Twitter mute words for your timeline
+January 24, 2020
+
+An Internet figures out that Twitter's muting system can sometimes block
+their own advertisement platform.  Hackernews complains about a lack of
+documentation for a list of twenty words to paste into a text box.  A
+Twitter reports that there is nothing users can do to unfuck their
+timelines.  The idea is nice, so the link is upvoted, but there isn't
+anything to say except "Twitter sucks at the only thing anyone wants them
+to do" so there isn't a lot happening in the comment section.
+
+Link: https://gist.github.com/IanColdwater/88b3341a7c4c0cf71c73ac56f9bd36ec
+Comments: http://news.ycombinator.com/item?id=22141903
+%
+Am I Unique?
+January 25, 2020
+
+Yes, no matter what you do.  Hackernews struggles with the age-old conflict
+of the browser: "why should this program have so much power over my data"
+versus "I want to do everything I do with computers inside this program."
+Later, the second-oldest conflict is discussed: "I don't want to be
+identifiable on the internet" versus "this surveillance company will make
+my life hell unless I am identifiable."
+
+Link: https://amiunique.org/
+Comments: http://news.ycombinator.com/item?id=22148512
+%
+Access to Wikipedia restored in Turkey after more than two and a half years
+January 26, 2020
+
+Wikipedia is excited that they are once again available in the Soviet
+Union.  The Erdogan apologists and the free-speech advocates organize a
+dance-off in the comment threads.
+
+Link: https://wikimediafoundation.org/news/2020/01/15/access-to-wikipedia-restored-in-turkey-after-more-than-two-and-a-half-years/
+Comments: http://news.ycombinator.com/item?id=22153304
+%
+An Update on Bradfitz: Leaving Google
+January 27, 2020
+
+A Google resigns to reinvent host-based authentication from first
+principles.  Hackernews recognizes the Google's username, and commences to
+eulogize.  No technology is discussed, but open-office plans are still
+unpopular.
+
+Link: https://bradfitz.com/2020/01/27/leaving-google
+Comments: http://news.ycombinator.com/item?id=22161383
+%
+WireGuard is now in Linus' tree
+January 28, 2020
+
+The Linux kernel assimilates another hundred and fifty thousand lines of
+code.  Hackernews is excited, because this greatly increases the chances
+that they'll get to use the software the next time they boot Ubuntu in a
+virtual machine on their Macbooks.  The rest of the comments are people
+translating their VPN configurations into confused narratives.
+
+Link: https://lists.zx2c4.com/pipermail/wireguard/2020-January/004906.html
+Comments: http://news.ycombinator.com/item?id=22176032
+%
+Congrats! Web scraping is legal! (US precedent)
+January 29, 2020
+
+The United States Government declares that website owners must use
+technology to combat scrapers instead of using the United States
+Government.  Hackernews knows this is getting escalated to a higher court,
+and so feels entitled to expound poorly-constructed legal opinions based on
+their understanding of contract law.
+
+Link: https://parsers.me/us-court-fully-legalized-website-scraping-and-technically-prohibited-it/
+Comments: http://news.ycombinator.com/item?id=22180559
+%
+Not everyone has an internal monologue
+January 30, 2020
+
+An Internet discovers a method to determine which people are people and
+which are artifacts of the simulation.  Hackernews quickly determines,
+based on various experiential reports from around the internet, that there
+is an hierarchy to how people's minds work, and that Hackernews is
+definitely at the top of that hierarchy, and that amphetamines are the key
+to staying there.  Another set of Hackernews explain to us that some of
+these reports are incorrect, the reporters are simply misunderstanding
+their own thoughts, and Hackernews knows better than you do how your mind
+works.
+
+Link: https://ryanandrewlangdon.wordpress.com/2020/01/28/today-i-learned-that-not-everyone-has-an-internal-monologue-and-it-has-ruined-my-day/
+Comments: http://news.ycombinator.com/item?id=22193451
+%
+My Second Year as a Solo Developer
+January 31, 2020
+
+A webshit constructs a series of tables explaining in excruciating detail
+the process of losing money by making webshit.  Hackernews is absolutely
+well-qualified to provide advice regarding the loss of money through making
+webshit, and proceeds to do so in volume and at scale.  The top comment
+comes from the Hackernews Beauty Pageant Bronze Medalist, who provides
+hundreds of words amounting to zero practical information, then refuses to
+respond to the blog author.
+
+Link: https://mtlynch.io/solo-developer-year-2/
+Comments: http://news.ycombinator.com/item?id=22201337
 %
