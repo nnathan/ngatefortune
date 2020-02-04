@@ -127,7 +127,6 @@ def parse_hackernews(raw_html):
                         addendums = ["* - never."]
 
                 if title == "Golang SSH Security":
-                    log("Golang SSH Security")
                     addendums = [
                         "* - Imagine that.  Vendor-related problems with Go.  For a change, this one couldn't have been trivially solved with plain old package management."
                     ]
