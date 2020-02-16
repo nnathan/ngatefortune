@@ -17478,3 +17478,221 @@ respond to the blog author.
 Link: https://mtlynch.io/solo-developer-year-2/
 Comments: http://news.ycombinator.com/item?id=22201337
 %
+Palindrome Day 20200202
+February 01, 2020
+
+An Internet pretends there are date formats not specified in ISO 8601.
+Hackernews is still mad that America writes numbers down in the order
+they're spoken, because human behavior should obviously be driven entirely
+by some nerd's sense of aesthetics.  Half of the comments are Hackernews
+arguing that whatever date format and postal address system they grew up
+with is a natural law.  The other half agree, but grew up somewhere else.
+
+Link: https://blog.sumymus.de/palindrome-day-20200202
+Comments: http://news.ycombinator.com/item?id=22214635
+%
+Google Maps Hacks
+February 02, 2020
+
+An underemployed computer nerd has too many telephones.  Hackernews is
+dimly aware that they've placed half their lives into the hands of a
+faceless megacorporation with so little engineering acumen that it can be
+defeated by a bored person with a child's wagon.  While some of them
+consider this to be idly alarming, most are more interested in reporting
+similar failures in traffic reporting systems run by advertising agencies.
+Later, another pack of Hackernews drill down into the real problem with
+traffic management:  having to turn left, which is scary and should be
+outlawed.
+
+Link: http://www.simonweckert.com/googlemapshacks.html
+Comments: http://news.ycombinator.com/item?id=22216821
+%
+The missing semester of CS education
+February 03, 2020
+
+Some academics isolate the last remaining degrees of freedom in software
+development and target them for extermination.  The academics report their
+indoctrination efforts to Hackernews and patrol the comment section.
+Hackernews is not convinced that computer scientists should know how to use
+computers at all, much less these specific computer programs.  While some
+Hackernews firmly believe that universities should make this information
+available to interested students, others insist that it is better for
+learning institution to focus on fundamental invariants in the computer
+science field, such as AdSense and AWS.
+
+Link: https://missing.csail.mit.edu/
+Comments: http://news.ycombinator.com/item?id=22226380
+%
+Google tracks individual users per Chrome installation ID
+February 04, 2020
+
+A GitHub does not like that Google's software sends information to Google,
+and expresses this opinion with a passive-aggressive rhetorical question on
+a GitHub issue, which has the effect of preventing the Google who opened
+the issue from ever interacting with it again.  Hackernews trawls through
+Google public-relations apocrypha to find a suitable body of text which can
+dismiss the entire class of concerns expressed in the original comment.
+The common consensus is that it is not possible to prevent your data from
+being uploaded to Google, and so it's best to lie down on your Chromebook,
+open your advertising preferences, and think of GMail.
+
+Link: https://github.com/w3ctag/design-reviews/issues/467#issuecomment-581944600
+Comments: http://news.ycombinator.com/item?id=22236106
+%
+Wacom tablets track every app you open
+February 05, 2020
+
+An Internet does not like that Wacom's software sends information to
+Google, and expresses this opinion with an in-depth blog post detailing how
+to watch it happen.  Hackernews opines that switching to Linux would fix
+this.  Other Hackernews think you can just politely ask your hardware
+vendor to stop spying on you.  Still others try to work out what the
+precise balance should be between the user having a private life and
+software developers' God-given right to know everything you do with any
+electronic device.  Nobody suggests that a drawing-tablet manufacturer
+should not even try to collect user data.
+
+Link: https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/
+Comments: http://news.ycombinator.com/item?id=22247292
+%
+Open-plan offices decrease face-to-face collaboration: study
+February 06, 2020
+
+Some academics claim that free-range programmers do not produce as well as
+caged programmers.  The entire article provides no information beyond this,
+but contains dozens of links to other useless articles on the same shitty
+website, none of which contain additional information.  Nowhere is the
+academic study linked, so Hackernews has to go find it themselves.  Instead
+of discussing, Hackernews just whines about their work environments, or
+reminisces about that one time they got to work somewhere nice.  No
+technology is discussed.
+
+Link: https://www.inc.com/geoffrey-james/its-official-open-plan-offices-are-now-dumbest-management-fad-of-all-time.html
+Comments: http://news.ycombinator.com/item?id=22256872
+%
+Python dicts are now ordered
+February 07, 2020
+
+A webshit has something to say about Python internals, but I couldn't focus
+on the article, because the first comment on the blog post involves the
+text "it brings Python on par with PHP," which is such a monumentally alien
+thought that I think I need medical attention.  Hackernews argues about who
+already knew this, why, and how.  Another argument breaks out about whether
+this is the Correct and Natural approach to data structures, or if it's
+Completely Wrong and Stupid because of some ridiculous edge case nobody
+cares about.  Most of the complaints are from people who are deeply
+concerned that (entirely hypothetical) existing code might break in the
+case its author made extremely specific assumptions about one particular
+data structure in a programming language directly aimed at people who do
+not give a shit about these topics.
+
+Link: https://softwaremaniacs.org/blog/2020/02/05/dicts-ordered/en/
+Comments: http://news.ycombinator.com/item?id=22266173
+%
+My productivity app for the past 12 years has been a single .txt file
+February 08, 2020
+
+An academic takes notes in a single text file.  And a calendar server.  And
+an email server.  Hackernews also uses text files, email servers, and
+calendars, but they use them better, and they're here to recommend
+expensive books from several online vendors who offer free shipping.  The
+entire remainder of the comment thread is people suggesting taking notes in
+a notebook, but are shouted down by the ancient refrain:  it's not
+searchable!  Only a computer can organize text.
+
+Link: https://jeffhuang.com/productivity_text_file/
+Comments: http://news.ycombinator.com/item?id=22276184
+%
+Linux 5.6 is the most exciting kernel in years
+February 09, 2020
+
+An Internet is extremely enthusiastic about computer hardware drivers for a
+living.  Hackernews is far more excited that they can now run their
+computers with a networked filesystem provided by the only company they
+trust with the task:  Microsoft.  Another pack of Hackernews are pleased
+that there is coming support for kernel performance improvements they don't
+understand and cannot use.
+
+Link: https://www.phoronix.com/scan.php?page=article&item=linux-56-features&num=1
+Comments: http://news.ycombinator.com/item?id=22284232
+%
+Microsoft begins showing an anti-Firefox ad in the Windows 10 start menu
+February 10, 2020
+
+Microsoft continues the war against its most entrenched and dangerous
+threat: a struggling webshit vendor who is hemorrhaging money.  Hackernews
+recalls the isolated incidents when Microsoft engaged in unethical business
+practices hostile to community developed software.  Other Hackernews
+indicate the infrequent nature of this continual and unending series of
+miscommunications, overreaches, and/or accidental attacks points to a
+failure of leadership, as a competent executive team would have reached
+total monopoly by climbing a staircase made of the corpses of copyright
+cultists.
+
+Link: https://news.softpedia.com/news/microsoft-begins-showing-an-anti-firefox-ad-in-the-windows-10-start-menu-529137.shtml
+Comments: http://news.ycombinator.com/item?id=22288599
+%
+How the CIA used Crypto AG encryption devices to spy on countries for decades
+February 11, 2020
+
+The Washington Post, owned by Jeff Bezos, recounts the story of a digital
+communications company with close ties to the American government that
+turned out to be a conduit for the world's secrets directly into United
+States intelligence agencies.  Hackernews suspects that the events of this
+story are not the only instance of the United States government engaging in
+such fuckery, but can't seem to decide if that's the worst possible problem
+there could be or else probably for the best.  In the end, Hackernews
+decides the right action to take is to double-check their AmazonSmile
+charity is not set to the 'Intelligence and National Security Foundation'.
+
+Link: https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/
+Comments: http://news.ycombinator.com/item?id=22297963
+%
+Gears
+February 12, 2020
+
+A webshit makes javascript about math.  Hackernews likes the pretty
+pictures, but thinks they'd be better if Hackernews made them, or if they
+were made by Hackernews' favorite almost-identical gear-oriented webshit,
+or if we could print animated books.  Other Hackernews just want to point
+out how important math is to people who need to use math.
+
+Link: https://ciechanow.ski/gears/
+Comments: http://news.ycombinator.com/item?id=22310813
+%
+I Add 3-25 Seconds of Latency to Every Site I Visit
+February 13, 2020
+
+An Internet tries to invent digital Methadone.  Hackernews recommends the
+same procedures for disciplining teenagers over the internet.  Half of the
+comments are about which Python script Hackernews uses to pirate Youtube
+videos.  The other half are struggling with the ontology of gratification.
+On one hand, spake Hackernews, it cannot be wise to gratify oneself
+instantly and frequently.  On the other hand, quoth Hackernews, it's fine
+to jerk off constantly until you chafe your genitals to stone and die of
+dehydration, as long as you can quote economics textbooks to people who are
+only present to wait for their turn to quote their favorite folksy street
+philosopher.
+
+Link: https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html
+Comments: http://news.ycombinator.com/item?id=22319383
+%
+18-year-old personal website, built with Frontpage and still updated
+February 14, 2020
+
+A webshit encrypts their website with some kind of vowel-laden kitchen
+Latin.  Hackernews somberly admonishes us to learn the important lesson of
+the long-lived website:  for your message to survive unto future
+generations, it must be graven upon naked stone, using Microsoft software.
+After an interminably tedious discussion about which subset of modern
+webshit will survive into antiquity (defined here as five or more years
+from now), one Hackernews applauds the site for scoring 100 on Google's
+PageSpeed analyzer.  Literally nobody complains that the site is linked via
+unencrypted HTTP.  Nobody points out the site is not available over HTTPS
+at all.  Nobody even mentions subjecting themselves to Let's Encrypt.
+Seems like those are all only absolute necessities when the author is
+peddling webshit.
+
+Link: http://www.fmboschetto.it/
+Comments: http://news.ycombinator.com/item?id=22326339
+%
