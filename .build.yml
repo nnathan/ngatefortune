@@ -1,0 +1,10 @@
+---
+image: alpine/edge
+environment:
+  GIT_SSH_COMMAND: ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no
+secrets:
+  - f14c3489-7137-4e54-9862-f6d2b4253532
+tasks:
+  - push-to-github: |
+      cd ngatefortune
+      git push --mirror git@github.com:nnathan/ngatefortune.git
