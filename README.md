@@ -2,7 +2,7 @@
 
 These are offensive fortunes and so they will live in the offensive fortune directory.
 
-Download [ngatehackersnews](https://raw.githubusercontent.com/nnathan/ngatefortune/master/ngatehackernews) fortune file.
+Download [ngatehackersnews](https://git.sr.ht/~nnathan/ngatefortune/blob/master/ngatehackernews) fortune file.
 
 Run `strfile ngatehackernews` and copy `ngatehackernews` and `ngatehackernews.dat` to `/usr/local/share/games/fortunes/off/`.  Or `/usr/share/games/fortunes/off/`. Or wherever the fortune file should live, consult your `fortune(6)` manpage which will specify where. You can also place them in a local directory such as `~/.fortune`.
 
