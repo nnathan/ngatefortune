@@ -18213,3 +18213,158 @@ Neanderthal.
 Link: https://grocy.info/
 Comments: http://news.ycombinator.com/item?id=22646358
 %
+Pro drivers are competing with gamers after F1 and Nascar canceled races
+March 22, 2020
+
+Advertising finds a way.  Hackernews' response comes in three categories:
+Pro Racing Hackernews who live for the track and would like us to know that
+racing simulators are either flawless or irredeemable, Pro Gaming
+Hackernews who live for the livestream and would like us to know that real
+cars are exactly or not at all like computer games, and Pro Expert
+Hackernews, who are only here to find irrelevant nits to pick in the
+inapplicable information provided by the first two groups.
+
+Link: https://www.theverge.com/2020/3/22/21184192/sim-racing-coronavirus-f1-nascar-iracing-veloce-esports-max-verstappen-lando-norris
+Comments: http://news.ycombinator.com/item?id=22658503
+%
+Jitsi Meet: An open source alternative to Zoom
+March 23, 2020
+
+Some copyright cultists scream into the wind.  Hackernews posts anecdotes
+about videoconferencing software.  Some consideration is given as to
+whether Zoom's "virtual background" feature is crucial for quarantined
+work-for-home success, since it relieves the user of the last traces of
+desire to clean their living space in any way.
+
+Link: https://meet.jit.si
+Comments: http://news.ycombinator.com/item?id=22669968
+%
+Zig cc: A drop-in replacement for GCC/Clang
+March 24, 2020
+
+An Internet decides that clang is not complicated enough.  The "programming
+language intended as a C replacement with extreme C interoperability" genre
+is one of Hackernews' favorites, so the story receives many votes, but
+nobody can figure out what the goal of this particular language is, whether
+anyone has ever actually used it, or why one would bother, so there aren't
+too many actual discussions.  Most of what does get posted focuses on
+cross-compilation, as though that were either a feature people actually
+used or else one that hasn't been dead-simple (outside of GNU) since the
+1980s.
+
+Link: https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html
+Comments: http://news.ycombinator.com/item?id=22679138
+%
+Private client-side-only PWAs are hard, but now Apple made them impossible
+March 25, 2020
+
+A webshit is mad that Apple won't let browser shit in its yard.
+Hackernews, deeply invested in webshit, Apple products, and yardshitting,
+is on the case.  It turns out there are ways to authorize selected webshits
+to bypass the limitation whined about in the article, so Hackernews argues
+about whether Apple's communications team is good enough for a while, then
+the article's author posts an update:  still mad.  Elsewhere in the comment
+threads, Hackernews bitches that Apple and Google fuck up webshit in
+incompatible ways, and a Google shows up to reassure everyone that they're
+going to make the documentation better... real soon now.
+
+Link: https://andregarzia.com/2020/03/private-client-side-only-pwas-are-hard-but-now-apple-made-them-impossible.html
+Comments: http://news.ycombinator.com/item?id=22686602
+%
+Zoom iOS app sends data to Facebook even if you don’t have a Facebook account
+March 26, 2020
+
+Vice dot com is a website that sends data back to Google, Facebook, and
+Segment, even if you don't have a Facebook account.  But someone at the
+office made Hackernews use Zoom, so they're on the warpath about that EULA
+they accepted.  Hackernews is outraged about whatever indiscernible
+difference may exist between Zoom's data collection practices and the data
+collection practices that pay for Hackernews' studio in San Mateo.
+[Editor's note:  we have been informed that Hackernews has in fact moved to
+a studio in Oakland.]  Zoom-the-company modifies Zoom-the-computer-program
+to discontinue the outrageous API requests, but Hackernews is still mad,
+because there's nothing better to do.
+
+Link: https://www.vice.com/en_us/article/k7e599/zoom-ios-app-sends-data-to-facebook-even-if-you-dont-have-a-facebook-account
+Comments: http://news.ycombinator.com/item?id=22693792
+%
+Zoom needs to clean up its privacy act
+March 27, 2020
+
+An Internet is still mad about the videoconference software from yesterday,
+and writes a blog post that sends data back to Wordpress, even if you don't
+have a Wordpress account.  It also sends data directly to the webshit's
+personal stats server running piwik, because you just cannot have enough
+user surveillance on your vanity blog.  Right, Doc?  There's no useful
+information here, so Hackernews reverse-engineers Zoom's Mac OS program
+(okay, okay:  Hackernews reads about someone else reverse-engineering
+Zoom's Mac OS program on Twitter) and then stoke the rage fires even futher
+-- not only does this company do business with Facebook, it abuses a bad
+package manager as well!  Hackernews, faced with this cavalcade of
+turpitude, is forced to take firm and drastic action:  grumpy posting on a
+web forum, followed by several hours of Zoom meetings.
+
+Link: https://blogs.harvard.edu/doc/2020/03/27/zoom/
+Comments: http://news.ycombinator.com/item?id=22703000
+%
+The internet should be a public utility
+March 28, 2020
+
+Quartz continues to shit out a harried stream of barely-coherent
+thinkpieces with "coronavirus" in the titles.  Hackernews is disappointed
+with residential internet connections and blames Boomers.
+
+Link: https://qz.com/1826043/the-coronavirus-crisis-proves-internet-should-be-a-public-utility/
+Comments: http://news.ycombinator.com/item?id=22711468
+%
+WireGuard 1.0 for Linux 5.6
+March 29, 2020
+
+The Linux kernel sprouts a seven hundredth network encryption feature, and
+we are assured that this one is the good one for real this time.
+Hackernews is extremely grateful for this development, as they suspect it
+might get simpler to watch their home Plex server at work without getting
+caught by IT.  Nobody is actually allowed to go into work to try it because
+of the plague quarantines, so they limit themselves to recommending other
+networking gadgets to play with in the meantime.  Fun fact:  this same
+story was posted (via a different mail list mirror) the next day and not
+only was the highest-voted story THAT day as well, it was higher-voted than
+THIS one.  Hackernews moderators could not stand the sheer disorder of
+things and dumped all tomorrow's comments into this article.
+
+Link: https://lists.zx2c4.com/pipermail/wireguard/2020-March/005206.html
+Comments: http://news.ycombinator.com/item?id=22724768
+%
+WeWork sells Meetup
+March 30, 2020
+
+The most hilariously topical coporate trade occurs.  Hackernews is glad
+that the assholes let go of an otherwise useful site, but can't decide if
+what is essentially a shared calendar service with a really shitty
+interface is a viable business or not.  Other Hackernews debate what the
+hell all those people do all day, why it takes a couple hundred people to
+run a site that could be replaced tomorrow by Craigslist, and how terrible
+it is that venture capitalists keep supporting these bullshit companies,
+instead of real value-producing organizations that bring needed
+improvements to the human condition, like "crowdfunding for funerals" or
+"AirBnB for sheds."
+
+Link: https://techcrunch.com/2020/03/30/wework-sells-off-social-network-meetup-to-alleycorp-and-other-investors/
+Comments: http://news.ycombinator.com/item?id=22730668
+%
+Honda bucks industry trend by removing touchscreen controls
+March 31, 2020
+
+Exactly the same article as last time[0], except it's Honda instead of
+Mazda, and Autocar is stupid enough to open their article with "Honda has
+done what no other car maker is doing."  Hackernews' response[1] is utterly
+indistinguishable from the last time I covered it[2], except for the couple
+dozen Hackernews pasting these same links.
+
+[0]: https://www.motorauthority.com/news/1121372_why-mazda-is-purging-touchscreens-from-its-vehicles
+[1]: https://news.ycombinator.com/item?id=20200335
+[2]: http://n-gate.com/hackernews/2019/06/21/
+
+Link: https://www.autocar.co.uk/car-news/motor-shows-geneva-motor-show/honda-bucks-industry-trend-removing-touchscreen-controls
+Comments: http://news.ycombinator.com/item?id=22738415
+%
