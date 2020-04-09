@@ -18338,7 +18338,7 @@ Comments: http://news.ycombinator.com/item?id=22724768
 WeWork sells Meetup
 March 30, 2020
 
-The most hilariously topical coporate trade occurs.  Hackernews is glad
+The most hilariously topical corporate trade occurs.  Hackernews is glad
 that the assholes let go of an otherwise useful site, but can't decide if
 what is essentially a shared calendar service with a really shitty
 interface is a viable business or not.  Other Hackernews debate what the
@@ -18367,4 +18367,127 @@ dozen Hackernews pasting these same links.
 
 Link: https://www.autocar.co.uk/car-news/motor-shows-geneva-motor-show/honda-bucks-industry-trend-removing-touchscreen-controls
 Comments: http://news.ycombinator.com/item?id=22738415
+%
+What the Heck Is Pyproject.toml?
+April 01, 2020
+
+A Python goes on at length to explain the presence of a configuration file.
+The presence of the file is explained as a necessary and healthy reaction
+to Python's disgusting habit of shitting all over the environment, making
+undeclared assumptions about the computers it runs on, and the intents of
+the people who deign to interact with Python's gross CPAN knockoff.
+Hackernews bemoans Python's "sovereign city-states in detente" approach to
+keeping its shit together, and each Hackernews expresses the foundational
+nature of whatever shitty build tool they espouse, patiently explaining to
+one another that their disparate habits constitute natural laws,
+necessitating the canonization of the resulting trash moussaka.  Meanwhile,
+the Python packaging bureaucrats organize a crowdfunding effort, under the
+assumption that all these problems can be fixed with money, since money is
+cheaper than self-discipline.
+
+Link: https://snarky.ca/what-the-heck-is-pyproject-toml/
+Comments: http://news.ycombinator.com/item?id=22746762
+%
+OBS Studio: Open-source software for video recording and live streaming
+April 01, 2020
+
+Hackernews figures out who wrote the webcam-fuckery software they've been
+looking for.  Posting a link on "Hacker" "News" to a software package
+devoted entirely to getting people to pay attention to the user is chumming
+some profoundly shark-infested waters.  Every single producer of every
+single boring-ass webinar about mindfulness shows up to give practical
+advice regarding the optimal audio processing methodology to deliver the
+most value to all three of the viewers who do not have Chaturbate open in
+another window.  One of the authors shows up to report that people are
+using the software.  A quarter of the comments comprise a discussion of how
+Wayland may be able to use this software better once it matures, Real Soon
+Now[0].
+
+[0]: https://github.com/obsproject/obs-studio/issues/2200#issuecomment-558709502
+
+Link: https://obsproject.com/
+Comments: http://news.ycombinator.com/item?id=22748247
+%
+How to manage HTML DOM with vanilla JavaScript only?
+April 02, 2020
+
+A webshit manages to question the React/javascript hypostatic union without
+provoking a Nestorian crisis.  Hackernews is enthusiastic about using this
+approach for the sorts of webshit people actually want to interact with,
+but find it insufficiently holy to anoint their single-page farming-
+collective management apps.  Some entirely useless didactics emerge
+regarding the Christlike nature of the Framework, and admonishments abound
+not to stray from the catechism.
+
+Link: https://htmldom.dev/
+Comments: http://news.ycombinator.com/item?id=22758218
+%
+Zoom rolled their own encryption scheme, transmit keys through servers in China
+April 03, 2020
+
+Some academics morosely sound the same alarm about a new bad program,
+alluding to espionage-flavored ties to the worst government on the face of
+the planet.  Somehow, they manage to completely elide whether any of their
+research applies to the FedRAMP-moderate classified "Zoom for Government"
+platform, or just the half-assed implementation distributed to the plebes.
+Better investigators have already shone light upon the horrible failures of
+the company in question, so Hackernews links to those, then links to
+various open-source alternatives that do not work, does a moderate amount
+of hand-wringing, and closes the tab because it's time for their
+performance-review/scrum/happy-hour/layoff-notification on Zoom.
+
+Link: https://citizenlab.ca/2020/04/move-fast-roll-your-own-crypto-a-quick-look-at-the-confidentiality-of-zoom-meetings/
+Comments: http://news.ycombinator.com/item?id=22768494
+%
+We Made One Gram Of Remdesivir
+April 04, 2020
+
+An academic explains why doctoral degrees in actual sciences are difficult
+to acquire, and goes on to extrapolate the difficulty of applying the
+resulting work.  Hackernews has nothing to contribute except an epistle to
+themselves declaring the majesty of the human body.  Other Hackernews is
+not impressed, and get distracted bashing Wikipedia for not giving them the
+knowledge easier.  The rest of the comments are Hackernews incorrecting
+each other's programming analogies.
+
+Link: https://www.acsh.org/news/2020/03/26/problem-remdesivir-making-it-14665
+Comments: http://news.ycombinator.com/item?id=22783363
+%
+Crafting “Crafting Interpreters”
+April 05, 2020
+
+An internet shaves yaks out loud.  Hackernews bikesheds the yak shaving.
+The author shows up to help.  No technology is discussed.
+
+Link: http://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters/
+Comments: http://news.ycombinator.com/item?id=22788738
+%
+Coronavirus and Credibility
+April 06, 2020
+
+Y Combinator's absentee father pontificates, completely devoid of any
+appropriate sense of irony, and utterly without a shred of self-awareness,
+on the topic of not listening to people who are wrong a lot.  The post's
+pedigree garners a scad of upvotes, but the real motive for Hackernews is
+getting daddy's attention, so there are even more comments than vote points
+on the article.  Hackernews jockeys for primacy in the meaningless
+arguments that erupt, apostates are ostracized, and nearly a thousand
+comments scroll past, but dad never shows up to tell them they are loved.
+
+Link: http://paulgraham.com/cred.html
+Comments: http://news.ycombinator.com/item?id=22792119
+%
+Apple Faceshield
+April 07, 2020
+
+Apple contributes to the fight against COVID-19 by producing a form of
+personal protection equipment ostensibly targeted toward visual effects
+crewmembers who work for Lucio Fulci.  More effort is put into the
+instructional animations than the product itself.  Hackernews wants one,
+but since they're not for sale, they decide to argue about one another's
+third-hand-heresy-based experience in the medical wards.  Technology is
+discussed, but not very well.
+
+Link: https://support.apple.com/faceshield
+Comments: http://news.ycombinator.com/item?id=22806282
 %
