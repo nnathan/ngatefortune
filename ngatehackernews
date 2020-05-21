@@ -18445,7 +18445,7 @@ April 04, 2020
 An academic explains why doctoral degrees in actual sciences are difficult
 to acquire, and goes on to extrapolate the difficulty of applying the
 resulting work.  Hackernews has nothing to contribute except an epistle to
-themselves declaring the majesty of the human body.  Other Hackernews is
+themselves declaring the majesty of the human body.  Other Hackernews are
 not impressed, and get distracted bashing Wikipedia for not giving them the
 knowledge easier.  The rest of the comments are Hackernews incorrecting
 each other's programming analogies.
@@ -18519,8 +18519,8 @@ April 09, 2020
 
 A webshit leaves an abusive relationship, but it's not clear which party
 was the abuser.  Hackernews agrees that someone is an asshole, but can't
-quite reach consensus regarding who.  A Hackernews storms out of the the
-web forum upon encountering the idea that people can behave nicely with bad
+quite reach consensus regarding who.  A Hackernews storms out of the web
+forum upon encountering the idea that people can behave nicely with bad
 motivations.  Hackernews works around the cognitive dissonance with
 judicious metonymy-based equivocation:  softening the blows of criticism by
 subtly conflating an author and a work.  Various technology-based solutions
@@ -18611,4 +18611,425 @@ worse, or indistinguishable.
 
 Link: https://github.blog/2020-04-14-github-is-now-free-for-teams/
 Comments: http://news.ycombinator.com/item?id=22867627
+%
+New iPhone SE
+April 15, 2020
+
+Apple cashes in on the retro fad, while making sure this model has enough
+compute resources to compensate for their software engineers.  Hackernews
+is ecstatic, and manages to post fifteen hundred nearly-identical comments
+before digging their iPhone 6 sleeves back out of the junk drawer.  One
+Hackernews points out that this model will excel in the only really
+important metric -- javascript execution -- and takes a break to enjoy some
+casual racism.  The remaining skirmishes are carried out between the
+Hackernews who think 4.7 inches is a lurid display of ridiculous excess and
+the Hackernews who think that 4.7 inches is the smartphone equivalent of a
+Russian bread line.
+
+Link: https://www.apple.com/newsroom/2020/04/iphone-se-a-powerful-new-smartphone-in-a-popular-design/
+Comments: http://news.ycombinator.com/item?id=22878515
+%
+Stripe raises $600M at nearly $36B valuation
+April 16, 2020
+
+Stripe (business model: "Uber for PayPal") celebrates another half-billion
+dollars of debt.  Stripe Actual shows up to hobnob with the clients.
+Hackernews is mad that their stock options must now take a back seat to the
+half-dozen or more investors who showed up late to the party.  Several
+comment threads are Hackernews comparison-shopping between credit card
+processors (nobody is happy with any of them).  The rest are either trying
+to figure out how money works or complaining about exchange rates.  Stripe
+Actual wanders around the thread implementing brand engagement.
+
+Link: https://www.axios.com/stripe-fundraising-600-million-1f1f38b6-fde6-4316-b111-2f3b0e868ab7.html
+Comments: http://news.ycombinator.com/item?id=22889778
+%
+The Decline of Usability
+April 17, 2020
+
+An Internet notices that programmers are no longer held accountable for
+their work.  Hackernews agrees this is a problem, and collectively has
+every possible opinion on when exactly Things Went Wrong.  Lots of
+Hackernews are disgruntled about lock screens.  Other Hackernews are mad
+about websites.  Still other Hackernews are mad that programmers keep
+changing shit from one version to the next.  Every single thread results in
+a reconstruction of user interfaces from first principles, followed by
+bickering about where the right place is to stop.
+
+Link: https://datagubbe.se/decusab/
+Comments: http://news.ycombinator.com/item?id=22901541
+%
+It’s Time to Build
+April 18, 2020
+
+A loan shark has strong opinions on national infrastructure.  Hackernews
+wants desperately the rich person to notice them (noticing them being the
+first step toward showering them with money), so we're treated to all of
+the profound thoughts on civilization that Hackernews has grunted out
+during four to six weeks of plague isolation.  Hackernews' assessments of
+the loan shark's screed turn out to be surprisingly diverse, but they're
+all centered around the same theme:  Hackernews, having mastered economics,
+medicine, and civil engineering, are the only people on earth qualified to
+have the correct opinion on nation-building, and they're not afraid to let
+us know.  After all, you can't spell "socially distant" without soi-disant.
+
+Link: https://a16z.com/2020/04/18/its-time-to-build/
+Comments: http://news.ycombinator.com/item?id=22911533
+%
+OpenCore: Hackintosh Alternative to Clover
+April 19, 2020
+
+Some Internets have extremely strong commitments to some software.
+Hackernews likes the idea of making computers do something stupid, but the
+topic isn't actually interesting so the discussion is sparse and desultory.
+Technology is discussed, but none of it is interesting.
+
+Link: https://github.com/dortania/OpenCore-Desktop-Guide/blob/master/README.md
+Comments: http://news.ycombinator.com/item?id=22916281
+%
+Shirt Without Stripes
+April 20, 2020
+
+Webshit machine learning still sucks.  Hackernews holds forth on just how
+hard not sucking is, then attempts to reverse engineer Google's revenue
+streams in an attempt to understand why they insist on sucking.  This is
+obviously boring and pointless, so Hackernews debates whether Google's
+image search is racist, then whether it's racist against white people.  The
+rest of the comments are mourning the good old days when Google's search
+algorithm returned useful, accurate results, instead of the morass of
+garbage that Google's search algorithm has caused to be.
+
+Link: https://github.com/elsamuko/Shirt-without-Stripes
+Comments: http://news.ycombinator.com/item?id=22925087
+%
+Stripe records user movements on its customers' websites
+April 21, 2020
+
+An Internet notices that famed debt-acquirer Stripe is literally watching
+every (mouse) move their users make.  Stripe Actual returns to reassure
+everyone that tracking this kind of shit is just a perfectly normal way
+that money handlers keep everyone safe; touchscreen users can apparently
+fuck themselves.  Two thirds of the comments on this story comprise a
+debate over whether this is bullshit behavior subject to trivial abuse or
+the only way we can possibly exchange money for goods and services.  One
+Hackernews wants to know what happens if we turn javascript off in the
+browser, but we are reassured that this is impossible.  The author shows up
+to say hello, and is excoriated by angry webshits.
+
+Link: https://mtlynch.io/stripe-recording-its-customers/
+Comments: http://news.ycombinator.com/item?id=22936818
+%
+Conversations with a six-year-old on functional programming (2018)
+April 22, 2020
+
+Hackernews revisits some internet lies.  Instead of mathematics, Hackernews
+recounts all the ways they've fucked with kids, or else gets mad about all
+the ways people fuck with kids.  Later, Hackernews tries to ascertain
+whether kids actually give a shit about math.
+
+Link: https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/
+Comments: http://news.ycombinator.com/item?id=22943749
+%
+Amazon scooped up data from its own sellers to launch competing products
+April 23, 2020
+
+The Wall Street Journal still thinks anything they have to say is
+interesting enough to hide behind a paywall.  It is not; this week's
+nonsurprise is that Amazon is fucking everyone in reach.  Hackernews
+wrestles with the idea that trust is a fundamental component of a business
+relationship.  Some Hackernews posit that gargantuan faceless corporations
+are not trustable entities, but this clearly cannot be true because that
+would be awful.  Accusations of paranoia are much simpler.
+
+Link: https://www.wsj.com/articles/amazon-scooped-up-data-from-its-own-sellers-to-launch-competing-products-11587650015
+Comments: http://news.ycombinator.com/item?id=22956182
+%
+Seinfeld Adventure
+April 24, 2020
+
+Some Internets want to waste other people's money, and hope that internet
+attention is the first step down that road.  Hackernews recognizes the
+television show and has opinions about it.  One Hackernews wants to know if
+there are any shows similar to Seinfeld, painting a stark, sobering
+portrait of the dire shortage of ensemble shows about rich people stepping
+on their own dicks.
+
+Link: https://www.seinfeldgame.com/
+Comments: http://news.ycombinator.com/item?id=22972983
+%
+In 4 US state prisons, 3,300 inmates test positive, 96% without symptoms
+April 25, 2020
+
+Slaves make useful test subjects.  Hackernews crawls over one another to
+scream the loudest "insightful takeaway" they were clever enough to glean
+from the article.  All of the armchair epidemiology remains unchanged from
+previous sessions.  About a third of Hackernews has convinced themselves
+they have already recovered from COVID-19, based entirely on wishing.
+
+Link: https://www.reuters.com/article/us-health-coronavirus-prisons-testing-in/in-four-u-s-state-prisons-nearly-3300-inmates-test-positive-for-coronavirus-96-without-symptoms-idUSKCN2270RX
+Comments: http://news.ycombinator.com/item?id=22980932
+%
+Eloquent JavaScript 3rd Edition (2018)
+April 26, 2020
+
+A webshit writes a book about a hammer.  Hackernews works on listing the
+exact sequence of books to read to become a webshit.  Then, Hackernews
+attempts to decide which programming abstraction is the "right" one, and
+which programming abstractions are the "wrong" ones.  No conclusions are
+forthcoming.
+
+Link: https://eloquentjavascript.net/
+Comments: http://news.ycombinator.com/item?id=22990926
+%
+Disney claims anyone using a Twitter hashtag is agreeing to their terms of use
+April 27, 2020
+
+A massive corporate conglomerate marks its territory.  Hackernews explores
+what words are, what they do, and how that happens.  Eventually, they move
+on to "who the hell does Disney think they are" and "how can they get away
+with this shit."  Later on, a Hackernews points out that "Hacker" "News"
+itself has a forced-arbitration clause in its terms of use.  This would be
+concerning if anyone in the IT industry were subject to legal oversight.
+
+Link: https://twitter.com/disneyplus/status/1254772307941191686
+Comments: http://news.ycombinator.com/item?id=22998423
+%
+“Amazon is holding over 4.2M dollars, suffocating our business”
+April 28, 2020
+
+Amazon continues the war against its own users.  Hackernews tries to invent
+from first principles a valid reason for Amazon to force its own clients
+over a table for weeks on end, even though those users are explicitly
+paying for the privilege of not being ratfucked by an algorithm.  Several
+Hackernews report direct personal experience with similar accounts of
+highway robbery.  Every participant in the comment thread has an Amazon
+Prime account.
+
+Link: https://sellercentral.amazon.com/forums/t/amazon-is-holding-over-4-2-million-dollars-during-a-pandemic-suffocating-our-business/611187
+Comments: http://news.ycombinator.com/item?id=23008633
+%
+SSH hacks – a little sanity for remote workers
+April 29, 2020
+
+An Internet posts an annotated copy of the the ssh_config(5) manpage.
+Hackernews posts their annotated copies of ssh_config files.
+
+Link: https://smallstep.com/blog/ssh-tricks-and-tips/
+Comments: http://news.ycombinator.com/item?id=23025756
+%
+Rules of thumb for a 1x developer
+April 30, 2020
+
+An Internet makes a guide to decisions about programming.  Hackernews
+disagrees with every single one, both singly and in bunches, except for the
+part where Agile Development is ritualized employee abuse.  Some other
+Amazons show up to play a little inside baseball.
+
+Link: https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html
+Comments: http://news.ycombinator.com/item?id=23029489
+%
+Awk in 20 Minutes (2015)
+May 01, 2020
+
+An Internet describes an experience with some kind of practical extraction
+and reporting language.  Hackernews describes other similar languages,
+dimly recalled from some kind of electronic bronze age when people used
+tools to perform work without any git hooks.  An Executive Hackernews
+declares mystification at the existence of such artifacts, confusedly
+ruminating on the sufficiency of interactive text editors.  Other
+Hackernews note sagely that the language is useful when applied to the
+tasks for which it was designed, but other tools may be better for other
+tasks.
+
+Link: https://ferd.ca/awk-in-20-minutes.html
+Comments: http://news.ycombinator.com/item?id=23048054
+%
+Medium-hard SQL interview questions
+May 02, 2020
+
+An Internet hands you a hammer and lets you practice identifying nails.
+Hackernews learns a lot about using a query language where a sane person
+would use a programming language, gets distracted by a minor matter of
+linguistics, and then gets back to a serious debate:  exactly which parts
+of SQL are worth knowing?  Which parts should people be shunned for not
+knowing?  Which parts are good for replicating the tool you actually
+wanted?
+
+Link: https://quip.com/2gwZArKuWk7W
+Comments: http://news.ycombinator.com/item?id=23053981
+%
+Startup financial models – Templates compared for SaaS
+May 03, 2020
+
+An Internet reviews some bullshit factories you can use to convince morons
+that you have a business plan.  Hackernews votes for the article because
+they would like to convince morons they have a business plan, but the
+content is so utterly devoid of even the slightest interesting qualities
+that almost nobody has anything to say.  Some of the hucksters arrive in
+the comments to hobnob with the marks.  A Hackernews wonders how you're
+supposed to build a five-year financial model of a business that does not
+yet exist, and is instructed by everyone in earshot to make shit up until a
+resulting graph convinces a patron to lavish the mark with debt.
+
+Link: https://www.stephnass.com/blog/startup-financial-model
+Comments: http://news.ycombinator.com/item?id=23061796
+%
+Bye, Amazon
+May 04, 2020
+
+A webshit leads by example.  Hackernews posts one thousand comments, which
+mostly fall into three buckets: "this person is a hero and Amazon should be
+ashamed," "unions are scams designed to give power unjustly to non-rich
+people," and "everyone at Amazon should stop whining because some third-
+world dirt factory is worse."  Along the way, much economic theory is
+hastily dug out, nebulously understood, and inexpertly applied to the
+people who actually do the shit that Amazon is famous for doing.
+
+Link: https://www.tbray.org/ongoing/When/202x/2020/04/29/Leaving-Amazon
+Comments: http://news.ycombinator.com/item?id=23065782
+%
+Citing revenue declines, Airbnb cuts 25% of workforce
+May 05, 2020
+
+AirBnB (business model: "Uber for toilets") cancels nearly two thousand
+reservations.  Hackernews thinks the severance package is quite kind, or
+possibly inhuman and cruel, or definitely wrong in some direction, because
+America.  Two-thirds of the comments on the article are in a thread
+bickering about how much money a company should pay someone whilst
+shitcanning them.  The rest of the comments are Hackernews attempting to
+divine the future progress of the COVID-19 pandemic based on AirBnB's
+business practices.  No technology is discussed.
+
+Link: https://techcrunch.com/2020/05/05/citing-revenue-declines-airbnb-cuts-1900-jobs-or-around-25-of-its-global-workforce/
+Comments: http://news.ycombinator.com/item?id=23083692
+%
+GitHub Codespaces
+May 06, 2020
+
+Microsoft ports their webshit text editor ... to the web.  Hackernews is
+ecstatic that they can finally use their favorite text editor without
+leaving The Only Application.  Dozens of Microsofts flood the comments to
+use Capitalized Brandnames of Important Products.  A substantial subthread
+breaks off where Hackernews enthuses about networked text editing features
+which have existed in other software since the Reagan administration.  Some
+Gitlabs show up to crow about how they got here first.  The rest of the
+comments are comparing VS Code to other text editors, or comparing
+Microsoft to other assholes.
+
+Link: https://github.com/features/codespaces
+Comments: http://news.ycombinator.com/item?id=23092904
+%
+Zoom Acquires Keybase
+May 07, 2020
+
+Some webshits get bored and decide to work on software that anyone actually
+uses.  Hackernews is furious; if only the webshits would have accepted
+money from Hackernews, says Hackernews, this never would have happened.
+Instead the webshits accepted a tremendous amount of debt from a high-class
+loan shark and now are scuttling the whole project to repay that debt.
+Hackernews discusses alternative software to replace the impending loss of
+all Keybase functionality, but since Keybase itself is a rambling mess of
+desultory, incoherent functionality it's impossible to eat just one.
+
+Link: https://keybase.io/blog/keybase-joins-zoom
+Comments: http://news.ycombinator.com/item?id=23102430
+%
+Write Libraries, Not Frameworks
+May 08, 2020
+
+A webshit writes a treatise on risk assessment.     Hackernews spends half
+their time agreeing with the article and then defending shitty software
+practices to each other.  The rest of the comments are Hackernews naming
+various software packages and forcing them into the categories described in
+the article.
+
+Link: https://www.brandonsmith.ninja/blog/libraries-not-frameworks
+Comments: http://news.ycombinator.com/item?id=23121192
+%
+Convincing-looking 90s fonts in modern browsers
+May 09, 2020
+
+Some webshits throw a nostalgia party, and Hackernews lines up at the door.
+Lots of hazily-recalled misinformation is presented regarding font
+rendering, and some Hackernews are so desperate to participate that they
+have to look shit up on Wikipedia to construct a fantasy narrative for the
+past -- to include claims of a 1280x1024 CRT.  When confronted, the idiot
+doubles down.
+
+Link: https://vistaserv.net/blog/90s-fonts-modern-browsers
+Comments: http://news.ycombinator.com/item?id=23129434
+%
+Second-Guessing the Modern Web
+May 10, 2020
+
+Coming to on the floor of a local Showbiz Pizza, Hackernews shakes off the
+remnants of a nostalgia hangover and nervously survey the catalog of
+browser tabs they left open during the previous day's heady exploration of
+the past.  One of the tabs -- this article -- is a screed questioning the
+accepted webshit doctrine:  the right way to build webshittery applications
+is to shove all the logic into the browser terminal and run it there.  So
+it was in the blit; so shall it be in the browser.  But is this the right
+way?  Hackernews, in the clarity of day, has no problem drilling to the
+core of this question, and the answer is yes.  Absolutely yes.  Doing it
+any other way would be slightly more labor intensive, and Hackernews would
+rather die.
+
+Link: https://macwright.org/2020/05/10/spa-fatigue.html
+Comments: http://news.ycombinator.com/item?id=23136688
+%
+We at $Famous_company switched to $Hyped_technology
+May 11, 2020
+
+An Internet provides a useful blog template for aspiring thought leaders.
+Hackernews has some fun trying to determine which webshit companies beta
+tested the template, but this practice gets dangerously close to
+introspection, since any given Hackernews either works for, got fired from,
+or runs all of those companies.
+
+Link: https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/
+Comments: http://news.ycombinator.com/item?id=23144380
+%
+Twitter Will Allow Employees to Work at Home Forever
+May 12, 2020
+
+Twitter discovers the internet.  Hackernews excitedly names all the other
+companies who have discovered the internet, but the real meat of this topic
+is twofold:  Hackernews has every possible opinion about working from home,
+all strongly held, and Hackernews is terrified that some bumpkin in eastern
+Ohio is somehow going to destroy real estate values in the Bay Area,
+seconds after the Executive Vice President of Talent Confiscation realizes
+you can hire Stack Overflow users for cornpone wages who are just as
+capable as the South of Market courtiers demanding options.
+
+Link: https://www.buzzfeednews.com/article/alexkantrowitz/twitter-will-allow-employees-to-work-at-home-forever
+Comments: http://news.ycombinator.com/item?id=23155647
+%
+Deno 1.0
+May 13, 2020
+
+Some attention-deficit teenagers cascade.  In this meeting of the
+Everything's A Nail club, a new hammer design is unveiled.  Hackernews
+postulates a nail that this hammer cannot handle, but gets lost in the
+ensuing debate, since it turns out every single person who has ever touched
+node.js has learned the hard way not to trust any aspect of any dependency
+management situation that relies on webshits keeping services online.
+Having been invaded by the Rust Evangelism Strike Force, the project in
+question demands that other people's software be rewritten.  By someone
+else.
+
+Link: https://deno.land/v1
+Comments: http://news.ycombinator.com/item?id=23172483
+%
+Security Flaws in Adobe Acrobat Reader Allow Gaining Root on macOS Silently
+May 14, 2020
+
+The vendor of Flash and Coldfusion somehow manages to fuck up software.  In
+this case, it's a PDF reader for an operating system that can natively read
+PDFs without it.  Hackernews doesn't give a shit about Acrobat Reader, but
+would dearly love to stop "paying for" Photoshop, so they bandy about and
+immediately reject several dozen alternatives, usually because they are not
+Photoshop.
+
+Link: https://rekken.github.io/2020/05/14/Security-Flaws-in-Adobe-Acrobat-Reader-Allow-Malicious-Program-to-Gain-Root-on-macOS-Silently/
+Comments: http://news.ycombinator.com/item?id=23180975
 %
