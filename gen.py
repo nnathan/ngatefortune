@@ -62,7 +62,14 @@ def parse_hackernews(raw_html):
         title = spans[0].a.text.strip()
         titlelink = spans[0].a["href"]
         date = spans[1].text
-        hackernewslink = spans[2].a["href"]
+
+        # annoyance (no comments link)
+        #       n-gate.com/hackernews/2020/07/31/0/index.html
+        #         - [Ask HN: Is all of FAANG like this?]
+        if titlelink == "https://news.ycombinator.com/item?id=23917131":
+            hackernewslink = titlelink
+        else:
+            hackernewslink = spans[2].a["href"]
 
         # annoyance (intermixed html tags in text portion):
         #       n-gate.com/hackernews/2016/12/21/0/index.html
